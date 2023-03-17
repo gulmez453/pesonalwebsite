@@ -24,7 +24,7 @@ th, td
 	border: 1px solid black;
 	padding: .2em 1em .2em .5em;
 	text-align: left;
-	vertical-align: middle;
+	vertical-align: top;
 }
 p{
 	font-size: 18pt;
